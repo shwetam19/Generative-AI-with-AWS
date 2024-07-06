@@ -16,4 +16,3 @@ Here's a quick look at what I did:
 
 Check out my [Udacity certificate](https://confirm.udacity.com/e/c01fcd46-39f0-11ef-9cd2-4f3510158e32)!
 
-Happy coding! 😊
