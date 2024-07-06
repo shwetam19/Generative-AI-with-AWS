@@ -1,0 +1,797 @@
+Abstract 
+This  study  examines  the  profit  potential  for  individuals  investing 
+in  the  options  of  stocks  announcing  stock  splits.   The  results  indicate 
+very  little  downside  risk  and  substantial  upside  potential  for  those  who 
+get  the  information  from  the  Dow  Jones  broad  tape  and  invest  the  day 
+before  it  is  announced  in  the  Wall  Street  Journal. 
+
+INVESTING  IN  OPTIONS  OF  STOCKS  ANNOUNCING  SPLITS
+
+Frank  K.  Reilly 
+Sandra  G.  Gustavson** 
+
+
+INTRODUCTION 
+A  previous  study  by  one  of  the  authors  indicated  that  the  stock 
+market  was  generally  quite  efficient  in  adjusting  to  the  announcement 
+of  a  stock  split.   Specifically,  the  results  indicated  that  trading 
+volume  and  stock  prices  reacted  rapidly  to  the  announcement  of  the  stock 
+split  on  the  Dow  Jones  News  Service  and  most  of  the  price  and  volume 
+adjustment  occurred  prior  to  the  report  in  the  Wall  Street  Journal  (WSJ) . 
+A  specific  test  of  the  profit  potential  for  an  investor  who  acquired  the 
+stock  after  the  announcement  of  the  forthcoming  stock  split  in  the  WSJ 
+indicated  a  small  positive  price  movement,  but  there  were  no  excess  returns 
+after  allowing  for  commissions.  While  it  apparently  is  not  possible  to 
+derive  excess  returns  from  investing  in  the  stock  of  the  firm,  one  may 
+question  whether  one  might  enjoy  excess  returns  from  investing  in  the 
+options  of  the  firms  that  announce  stock  splits.   There  are  two  main 
+reasons  why  such  a  strategy  might  be  viable.   First,  the  added  leverage 
+from  options  could  transform  a  small  profit  on  the  stock  into  a  much 
+larger  percent  profit  on  the  option.   Second,  the  Black-Scholes  option 
+pricing  model  implies  a  positive  relationship  between  the  variability  of 
+return  on  a  stock  and  the  value  of  an  option  for  that  stock.   A  study 
+by  Bar-Yosef  and  Brown  indicates  that  stock  returns  become  more  volatile 
+during  the  period  surrounding  a  stock  split.    Thus,  one  might  expect 
+an  increase  in  the  value  of  these  options  because  of  the  increased  variance 
+of  returns  on  the  stock  caused  by  the  announcement  of  a  stock  split. 
+
+Therefore,  the  purpose  of  this  study  is  to  examine  the  return  per- 
+formance for  investors  who  acquired  exchange-listed  call  options  for 
+NYSE  stocks  that  announced  splits  during  the  period  1974-1979.   The 
+sample  and  tests  are  discussed  in  the  next  section  and  the  results  are 
+reported  and  discussed  in  section  three.   The  final  section  contains  a 
+summary  and  conclusion  wherein  we  discuss  the  implications  of  the  results. 
+
+TEST  PERIOD,  SAMPLE  AND  TESTS 
+Test  Period 
+
+The  test  period  was  similar  to  that  used  in  the  prior  stock  split 
+study.   Specifically,  rates  of  return  were  examined  for  the  period 
+from  15  days  prior  to  the  announcement  of  the  stock  split  in  the  WSJ 
+to  20  days  following  the  annoiincement . 
+
+Split  Sample 
+
+The  sample  of  split  stocks  includes  every  stock  listed  on  the  NYSE 
+that  had  a  stock  split  during  the  period  1974-1979  where  the  firm  had 
+options  listed  on  one  of  the  options  exchanges  at  the  time  of  the  split. 
+There  were  several  instances  where  the  split  stock  currently  has  options 
+listed,  but  did  not  have  listed  options  when  the  split  occurred.   In 
+these  instances  the  stock  could  not  be  considered.   Based  upon  these 
+criteria,  the  split  sample  consisted  of  35  stocks. 
+
+Matched  Sample 
+
+Each  split  stock  was  matched  with  a  similar  non-splitting  stock  that 
+also  had  a  listed  option  at  the  time  of  the  split.   The  matching  was  based 
+upon  three  factors.   The  first  matching  criterion  was  comparable  system- 
+atic risk  (beta) ,  which  is  necessary  because  of  the  importance  of  return 
+volatility  in  the  option  pricing  model.   The  systematic  risk  measure 
+was  derived  using  daily  returns  during  the  calendar  year  prior  to  the 
+split  and  also  the  beta  during  the  year  of  the  split.   For  example,  when 
+looking  for  a  match  for  a  stock  that  split  in  1978,  we  considered  the 
+betas  derived  from  daily  returns  for  the  split  stock  during  calendar 
+1977  and  also  1978.   For  cases  in  which  the  betas  changed  dramatically 
+during  the  two  years  the  beta  that  best  reflected  the  period  prior  to 
+the  announcement  was  used  (i.e.,  if  the  stock  split  announcement  was 
+early  in  the  year  we  used  the  prior  years  beta;  if  the  announcement 
+came  late  in  the  year  the  current  year's  beta  was  chosen). 
+
+Given  several  reasonably  similar  betas,  the  firm  that  was  in  the 
+same  or  a  closely  allied  industry  as  the  split  stock  was  selected.   The 
+final  criterion  was  that  the  options  for  the  two  stocks  have  the  same 
+expiration  cycle.  A  list  of  the  split  sample  and  the  matched  sample  is 
+contained  in  Table  1, 
+
+Option  Data 
+
+Option  prices  and  volume  were  collected  for  the  36  day  period 
+from  15  days  prior  to  the  split  announcement  to  20  days  following  the 
+anno  tine  ement.   A  major  question  concerned  how  many  option  contracts  to 
+consider,  in  terms  of  striking  price  and  term  to  expiration.   While 
+there  are  typically  several  different  options  for  each  stock,  the  option 
+prices  will  generally  move  together,  based  upon  price  changes  for  the 
+underlying  stock.  Because  the  returns  on  the  various  options  are  highly 
+correlated  the  options  analyzed  were  limited  to  one  "in  the  money"  issue 
+and  one  "out  of  the  money"  issue  using  the  option  prices  as  close  as  pos- 
+sible to  the  stock  price  on  the  announcement  date.   For  example,  suppose 
+the  stock  was  selling  for  7A  at  the  time  of  the  stock  split  announcement. 
+We  would  attempt  to  find  a  70  option  (in  the  money)  and  an  80  option 
+(out  of  the  money)  for  the  stock.   The  decision  was  always  made  based 
+upon  the  prices  prevailing  at  the  time  of  the  announcement ,  since  the 
+study  assumed  an  investor  would  purchase  the  appropriate  options  on this  day. 
+
+No  difference  in  option  selection  would  have  resulted  had  the 
+decision  been  based  on  prices  prevailing  on  either  the  day  before  the 
+announcement  or  two  days  before. 
+
+
+SAMPLE  STOCKS,  ANNOUNCEMENT  DATES,  AND  MATCHED  SAMPLE  STOCKS 
+
+Split  Stock  Options 
+Date 
+Matched  Options 
+
+Gulf  &  Western  Ind,  Inc. 
+
+7/17/75 
+
+ITT 
+
+Dow  ChPTTiical 
+
+2/06/76 
+
+DuPont 
+
+Halliburton,  Inc. 
+
+2/20/76 
+
+Asarco 
+
+United  Technology  Corp. 
+
+4/1A/76 
+
+AMP 
+
+Exxon  Corp. 
+
+5/21/76 
+
+Texaco 
+
+Levi  Strauss  &  Co. 
+
+6/11/76 
+
+Weyerhaeuser 
+
+Atlantic  Richfield 
+
+6/29/76 
+
+Gulf  Oil 
+
+Diamond  Shamrock  Corp. 
+
+7/16/76 
+
+Hercules 
+
+Deere  Co . 
+
+7/28/76 
+
+IBM 
+
+Digital  Equipment 
+
+8/17/76 
+
+Sperry  Corp. 
+
+Bristol  Meyers 
+
+2/08/77 
+
+Corning  Glass  Works 
+
+Sears,  Roebuck 
+
+2/08/77 
+
+Kresge  (K-Mart) 
+
+Owens  Illinois  Inc. 
+
+2/11/77 
+
+Revlon 
+
+Pepsi  Cola,  Inc. 
+
+2/25/77 
+
+Beatrice  Foods 
+
+Coca-Cola  Co. 
+
+3/03/77 
+
+Norton  Simons 
+
+Phillips  Petroleum 
+
+3/15/77   - 
+
+Mobil  Oil 
+
+Raytheon 
+
+3/24/77 
+
+AKP 
+
+Boeing  Co. 
+
+8/02/77 
+
+Fleetwood  Enterprise 
+
+McDermotts  Co.,  Inc. 
+
+11/09/77 
+
+Hewlett  Packard 
+
+Santa  Fe  Int'l 
+
+11/30/77 
+
+NCR 
+
+Abbott  Labs 
+
+3/13/78 
+
+Sobering  Plough 
+
+Baker  Int'l  Corp. 
+
+4/27/78 
+
+Corning  Glass  Works 
+
+Northwest  Ind,  Inc. 
+
+5/10/78 
+
+Evans  Products 
+
+Tandy  Corp. 
+
+5/15/78 
+
+Itel 
+
+Signal  Cos,  Inc. 
+
+9/18/78 
+
+Avnet 
+
+Hilton  Hotel  Corp. 
+
+11/17/78 
+
+Holiday  Inns 
+
+IBM 
+
+12/20/78 
+
+Pitney  Bowes 
+
+DuPont 
+
+1/16/79 
+
+Herciiles 
+
+General  Dynamics 
+
+1/25/79 
+
+Boeing 
+
+Mobil  Oil 
+
+1/29/79 
+
+Phillips  Petroleim 
+
+Bally  Mfg. 
+
+2/21/79 
+
+Fleetwood  Enterprise 
+
+Union  Oil  Of  Calif. 
+
+2/27/79 
+
+Gulf  Oil 
+
+Philip  Morris 
+
+3/1/79 
+
+Pepsi  Cola,  Inc. 
+
+Hewlett-Packard 
+
+5/21/79 
+
+Black  and  Decker 
+
+R.  J.  Reynolds 
+
+10/19/79 
+
+Heublein 
+
+Because  the  most  active  option  issues  are  those  with  relatively' 
+short  expiration  dates,  only  options  with  less  than  six  months  to  ex- 
+piration were  considered.  As  a  result,  four  option  contracts  per  stock 
+were  examined  when  possible — a  short  and  longer  term  "in  the  money"  option, 
+and  a  short  and  longer  term  "out  of  the  money"  option.   For  example, 
+assume  that  the  previously  discussed  stock  announced  the  split  in  March 
+and  that  the  stock  options  were  on  a  February-May-August-November  cycle. 
+Ideally,  the  following  four  options  would  be  examined:   (1)  70  May, 
+(2)  70  August,  (3)  80  May,  and  (4)  80  August.   In  addition  to  the  option 
+analysis,  the  price  and  volume  of  trading  for  the  underlying  stocks  was 
+also  considered. 
+
+Tests 
+
+The  analysis  of  the  price  and  volume  for  the  options  involved  the 
+examination  of  the  time  series  plots  of  the  average  prices  and  trading 
+volimie  for  the  underlying  stocks  and  options  of  the  split  stocks  and 
+the  matched  sample  stocks.   The  trading  rules  based  on  this  analysis 
+are  tested  for  abnormal  profit  opportunities. 
+
+Price  Changes.   The  average  cross-sectional  prices  for  the  stocks 
+and  options  for  both  the  split  and  matched  sample  stocks  were  computed 
+for  each  day  during  the  36  day  period  surroimding  the  split  announcement 
+as  follows: 
+
+N  35 
+
+MOPSS  =   Z   SOP.   /N  and  MSP  =   L   SP .  ^/35 
+t    .^1    x,t  t    .^^   i,t 
+
+MOPSS  =  mean  closing  price  of  the  options  for  the  split  stocks 
+on  day  t. 
+
+SOP.    =  closing  option  price  for  split  stock  i  on  day  t. 
+MSP  =  mean  closing  price  of  the  split  stocks  on  day  t. 
+SP    =  closing  price  of  split  stock  i  on  day  t. 
+N  =  35  options  (if  available)  for  split  stocks. 
+
+An  average  cross  sectional  series  for  each  of  the  four  option  groups  is 
+computed:   in  the  money  short  term  (I,S);  in  the  money  longer  term  (I,L) , 
+out  of  the  money  short  term  (0,S);  out  of  the  money  longer  term  (0,L) . 
+Series  based  on  closing  prices  of  the  matched  stock  and  options  were 
+computed  in  a  similar  manner. 
+
+Finally,  mean  relative  option  price  (MROP)  and  mean  relative  stock 
+price  (MRSP)  series  were  derived  as  follows: 
+
+MROP  =  MOPSS  /MOPMS   and  MRSP  =  MSP  /MMP  . 
+
+where    MOPMS  =  average  closing  price  of  the  options  for  the  matched 
+stocks  on  day  t  and 
+
+MMP  =  mean  closing  price  of  the  matched  stock  on  day  t. 
+
+Based  upon  the  prior  split  study,  relative  series  were  expected  to  increase 
+over  time  and  experience  a  major  increase  during  the  several  days  sur- 
+rounding the  stock  split  announcement.   The  important  question  in  this 
+study  is  whether  the  increase  in  the  option  series  is  enough  to  cause 
+abnormal  returns  for  an  investor. 
+
+Volume  Changes.  The  average  cross  sectional  volume  series  were 
+computed  as  follows: 
+
+N  35 
+
+MOVSS   =   I   SOV.   /N  and  MSV  =   I   SV .   /35 
+t    .^1    i,t  t    .^^    i,t 
+
+MOVSS  =  mean  volume  of  trading  for  the  options  of  the  split 
+stocks  on  day  t. 
+
+SOV.    =  volume  of  trading  in  the  option  of  the  split  stock  i 
+'    on  day  t. 
+
+MSV  =  mean  volvime  of  trading  in  the  split  stock  on  day  t. 
+
+SV  =  volume  of  trading  in  split  stock  i  on  day  t. 
+
+N  =  35  options  (if  available) . 
+
+The  mean  volume  series  for  the  matched  sample  were  com.puted  simarly, 
+and  the  mean  relative  option  volxome  (MROV)  and  stock  volume  (MRSV)  series 
+were  calculated  as  follows: 
+
+MROV  =  MOVSS  /MOVMS   and  MRSV  =  MSV  /1>1MV  . 
+
+where    MOVMS   =  mean  volume  of  trading  for  the  options  of  the  matched 
+sample  stocks  on  day  t. 
+
+MMV  =  mean  volume  of  trading  in  the  matched  stock  on  day  t. 
+
+Assuming  that  the  transmittal  of  information  to  the  public  does  not  occur 
+until  the  announcement  date,  trading  should  increase  on  that  day  and  for 
+a  few  days  following  the  announcement. 
+
+Investment  Tests
+
+The  investment  tests  performed  indicate  whether an  investor  could  take  advantage  of  the  price  movements  in  the  options 
+of  stocks  announcing  splits.  The  analysis  is  in  two  parts.   The  first 
+considers  the  cumulative  percent  change  for  the  various  cross  sectional 
+series  assuming  a  purchase  on  the  announcement  date  (day  0) ,  the  day 
+before  (day  -1) ,  and  two  days  before  (day  -2) .  Day  0  is  important  be- 
+cause it  is  the  day  the  announcement  appears  in  the  WSJ.   The  announce- 
+ment will  appear  on  the  broad  tape  of  the  Dow  Jones  News  Service  some- 
+time on  day  -1.   Both  of  these  tests  assume  purchase  at  the  closing  price 
+of  the  day  indicated.   Purchase  on  day  -2  would  imply  some  inside  infor- 
+mation.  But  as  noted  later,  the  results  of  this  test  are  important  in 
+bracketing  the  expected  returns  available  to  investors  who  are  able  to 
+purchase  sometime  during  day  -1 — not  just  at  its  close.   Because  this 
+analysis  indicates  some  substantial  relative  percent  changes  for  the  options, 
+the  second  set  of  tests  considers  the  specific  returns  to  an  investor 
+who  acquires  the  "typical"  option  during  this  period  (day  0,  day  -1,  -2) 
+and  sells  it  on  day  +3,  paying  commissions  both  to  buy  and  sell.   These 
+returns  are  compared  to  a  similar  investment  in  the  matched  sample  options. 
+
+RESULTS 
+The  results  are  presented  in  four  subsections:   (1)  the  relative 
+price  and  volume  results  for  the  underlying  stocks,  (2)  the  option  price 
+series  (i.e.,  MOPSS;  MOPMS;  and  MROP)  over  the  36  day  period,  (3)  the 
+option  volume  series,  and  (4)  the  investment  tests. 
+
+Underlying  Stock  Results 
+
+Exhibits  1  and  2  contain  the  time  series  plot  of  the  relative  price 
+and  volume  series  for  the  underlying  stocks.   The  stock  price  results  are 
+very  similar  to  those  in  the  prior  study  on  stock  splits.   Specifically, 
+the  relative  stock  price  ratio  was  about  1.80  at  the  beginning  and  re- 
+mained in  that  area  until  day  -1,  when  it  increased  from  1.7953  to 
+1.8369  (a  2  percent  increase).   On  day  0  it  went  to  1.8455  and  increased 
+each  day  until  it  peaked  on  day  +3  at  1.8644.   Subsequently,  the  rela- 
+tive ratio  declined  slowly  and  ended  the  sample  period  at  1.8407.   As 
+before,  most  of  the  price  reaction  occurred  prior  to  the  announcement 
+
+in  the  WSJ  and  the  increase  after  the  announcement  was  not  adequate  for 
+excess  returns  after  commission. 
+
+Prior  to  any  announcement  the  relative  volume  series  ratio  was 
+about  .60  to  .70.   On  day  -1  it  jumped  to  1.04,  on  day  0  it  went  to 
+about  1.16,  and  peaked  on  day  +3  at  about  1.20.   Subsequently  it  gener- 
+ally declined  and  ended  about  where  it  began. 
+
+In  summary,  although  the  sample  is  much  smaller  than  the  original 
+stock  split  study  (35  vs  130)  and  the  control  sample  is  different  (a 
+matched  sample  vs  the  market),  the  results  are  very  similar.   Clearly 
+the  major  price  change  occurred  on  day  -1  and  it  is  not  possible  to 
+derive  excess  returns  after  commissions,  in  the  absence  of  inside  infor- 
+mation. Likewise,  the  volume  increases  are  tightly  grouped  in  the  time 
+period  from  day  -1  to  day  +3. 
+
+Relative  Option  Price  Results 
+
+Table  2  contains  the  average  cross  section  results  for  the  36  day 
+period  for  the  12  series  (three  sets  of  mean  prices  for  each  of  four 
+option  types).   Exhibits  3,  4,  5,  6  contain  the  time  series  plots  of 
+the  mean  relative  option  prices  for  the  various  types  of  options. 
+
+The  mean  relative  option  price  series  for  the  in  the  money  short 
+option  started  the  sample  period  at  a  value  of  1.371  and  varied  between 
+1.40  and  1.28  prior  to  day  -1.   On  day  -1  the  ratio  went  from  1.310  to 
+1.558 — a  19  percent  increase.   It  peaked  on  day  +3  at  1.768,  which  is 
+about  13  percent  higher  than  the  close  of  day  -1  and  12  percent  above  the 
+close  on  day  0.   Subsequently  the  ratio  declined  somewhat  to  an  ending 
+value  of  1.71  which  was  substantially  above  the  pre-announcement  values. 
+
+It  appears  that  these  prices  increased  after  the  announcement,  and 
+generally  maintained  the  relative  price  gain. 
+
+The  mean  relative  option  price  series  for  in  the  money  long  options 
+started  at  1.569  and  declined  to  1.471  on  day  -2.   During  Day  -1  it 
+increased  to  1.645  (12  percent)  and  peaked  on  Day  +3  at  1.905  (16  per- 
+cent above  day  -1) .   Subsequent  values  were  lower  but  were  consistently 
+above  any  of  the  p re-announcement  ratios.   Again,  the  big  increase  oc- 
+curred on  day  -1  and  continued  until  day  +3,  followed  by  a  small  decline. 
+
+The  mean  relative  option  price  series  for  short-term  out  of  the 
+money  options  (Exhibit  5)  increased  from  1.631  to  1.886  on  day  -2.   On 
+day  -1  the  ratio  jumped  to  2.645  (a  40  percent  increase),  followed  by 
+a  small  decline  on  day  0  and  twin  peaks  on  day  +3  (3.05)  and  day  +7. 
+The  ratio  ended  the  period  at  3.238  which  was  the  second  highest  value. 
+Clearly,  the  relative  price  performance  of  these  options  was  quite  superior 
+for  the  period  following  the  initial  announcement  on  day  -1  and  after 
+day  0. 
+
+The  time  series  plot  of  the  mean  relative  option  price  series  for 
+the  long  out  of  the  money  options  (Exhibit  6)  indicates  that  the  big 
+increase  occurred  on  day  -1,  with  the  overall  peak  ratio  on  day  +3.   The 
+increase  on  day  -1  was  26  percent,  while  the  increase  from  day  0  to 
+day  +3  was  an  additional  18  percent.   The  ending  values  were  lower,  but 
+still  above  any  p re-announcement  values. 
+
+In  summary,  all  the  relative  option  price  series  indicate  that  the 
+options  of  stocks  that  annoimce  a  split  clearly  outperform  the  options 
+for  a  matched  sample  of  stocks  beginning  on  the  day  prior  to  the  public 
+announcement  in  the  WSJ.   Typically,  the  peak  relative  option  price  oc- 
+curs on  day  +3,  with  subsequent  ratios  above  pre-announcement  ratios. 
+
+Relative  Option  Volume  Results 
+
+Table  3  contains  the  mean  relative  option  volume  (MROV)  for  the 
+four  types  of  options.   The  relative  volume  pattern  for  the  in  the  money 
+short  options  indicates  that  the  major  trading  impact  occurred  on  day  0. 
+Note  that  the  big  price  impact  on  day  -1  was  on  lower  volume  than  on 
+day  0.   These  results  indicate  that  the  option  trading  activity  was  a 
+consequence  of  the  public  announcement  in  the  WSJ.   The  relative  volume 
+pattern  for  long  in  the  money  options  likewise  indicates  a  large  increase 
+in  volume  on  day  0  followed  by  several  days  with  comparable  relative 
+volume.   In  this  case,  it  apparently  took  longer  for  the  activity  to 
+return  to  the  normal  range.  Notably,  the  volume  on  day  -1  was  above 
+normal  relative  to  prior  days. 
+
+The  relative  volume  for  short  out  of  the  money  options  also  likewise 
+shows  a  sharp  spike  starting  on  day  -1,  peaking  on  day  0,  and  generally 
+declining  toward  the  pre-announcement  volume  by  the  20th  day. 
+
+Finally,  the  relative  volume  for  the  long  out  of  the  money  options, 
+indicates  a  spike  starting  with  day  -1,  a  peak  on  day  0  and  the  highest 
+relative  volume  on  day  +3  followed  by  generally  declining  values.   This 
+is  the  only  instance  where  volume  on  day  +3  is  the  highest  value.   Strong 
+volume  on  day  +3  is  consistent  with  the  price  series  peaks  on  day  +3. 
+
+In  summary,  relative  volume  always  shows  a  definite  increase  on 
+day  -1  when  the  news  comes  over  the  Dow  Jones  News  Service,  followed 
+by  a  clear  peak  (in  three  of  the  four  cases)  on  the  day  of  the  public 
+
+
+MEAN   CROSS    SECTION   OF   OPTION  VOLUME 
+
+Typically,  there  is  strong  volume  or.  day  +3  fcllowed  by 
+generally  declining  values  somewhat  above  the  pre- announcement  values. 
+
+Results  of  Investment  Tests 
+
+These  tests  indicate  whether  an  investor  could  take  advantage  of 
+the  price  movements  in  the  options  of  stocks  announcing  splits.   The 
+analysis  is  in  Ds'O  parts.   The  first  presentation  considers  the  cumu- 
+lative percent  change  for  the  various  cross  sectional  series.   The 
+second  part  examines  the  specific  returns  to  an  investor  who  acquired 
+the  "t3.-pical"  option  during  this  period  and  paid  commissions  to  buy 
+and  sell. 
+
+Table  4  part  A  contains  the  ciimulative  percent  change  figures  for  the 
+four  t\T?'es  of  options  and  Exhibit  7  contains  the  plot  of  the  four  split- 
+minus-match  series  assuming  an  investor  acquired  the  options  at  the 
+closing  price  on  day  0. 
+
+The  results  for  the  short  in  the  money  options  showed  negative  re- 
+turns the  first  day,  a  peak  cvmulative  value  on  day  3  of  6.305.  one  sub- 
+sequent negative  value  and  an  ending  value  cf  6.201.   The  matched  sample 
+results  were  not  very  good  since  all  the  relative  values  (split  minus 
+match)  were  better.   Tiie  relative  series  was  never  negative,  it  peaked 
+at  11.259  percent  on  day  3  and  finished  at  over  8  percent.   The  unadjusted 
+long  in  the  money  options  had  a  peak  value  of  4.67  percent,  followed  by 
+numerous  negative  returns  and  a  final  value  cf  about  2  percent.   The 
+relative  results  peaked  at  9.2  percent,  only  had  two  negative  values 
+and  the  ending  cumulative  value  was  b .^   percent. 
+
+The  short  out  of  the  money  options  experienced  substantial  vola- 
+tility, numerous  negative  values,  a  peak  of  9.5  percent  and  ended  with 
+a  negative  percent.   In  contrast,  the  relative  results  were  19  percent 
+on  daj'  3,  had  only  two  negative  values  and  ended  vith  a  peak  value  of 
+over  22  percent.   The  long  out  of  the  money  options  were  likewise  quite 
+volatile  and  experienced  numerous  negative  values.   The  relative  series 
+had  only  three  negative  values,  a  peak  of  16,6  percent  on  day  three,  and 
+an  ending  value  over  10  percent. 
+
+Overall,  the  relative  results  were  quite  good.   The  peak  cumulative 
+percent  generally  occurred  on  day  +3  and  ranged  from  9  percent  to  over 
+19  percent.   For  the  total  period  there  were  few  negative  values  and  all 
+the  series  ended  with  positive  cumulative  values.   Comparing  the  four, 
+it  appears  that  the  short  in  the  money  series  is  most  conservative,  while 
+the  short  out  of  the  money  series  has  the  most  volatile  set  of  returns. 
+
+Table  4  part  B  contains  the  cumulative  return  series  assuming  an 
+investor  acquired  the  option  at  the  close  on  day  -1.   As  noted,  this  is 
+clearly  a  possibility  for  an  individual  who  watches  the  Dow  Jones  News 
+Service  or  has  a  broker  who  watches  it  and  informs  the  investor  of  the 
+split  announcement.   Such  an  individual  might  be  described  as  an  aggressive 
+investor.   The  series  are  plotted  in  Exhibit  8. 
+
+The  results  for  the  short  in  the  money  options  indicated  only  one 
+negative  value,  the  series  was  over  S  percent  on  day  3,  subsequently 
+peaked  near  9  percent  and  finished  at  nearly  8  percent.   Relative  to 
+the  matched  sample,  the  peak  on  day  3  was  almost  13  percent,  there  were 
+no  negative  relative  returns  and  the  series  ended  at  almost  10  percent. 
+
+The  long  in  the  money  option  series  peaked  at  over  10  percent,  was 
+never  negative  and  ended  at  almost  8  percent.   For  the  relative  series 
+the  peak  was  over  15  percent  and  it  ended  at  over  12  percent. 
+
+
+Again,  the  short  out  of  the  money  option  series  experienced  sub- 
+stantial volatility.   The  unadjusted  results  had  a  negative  cumulative 
+value  during  19  of  the  21  days.  The  relative  results  were  better,  but 
+still  quite  volatile  with  11  negative  values,  as  well  as  several  large 
+positive  values  ranging  from  13  percent  to  20  percent  and  ending  at 
+17  percent. 
+
+The  long  out  of  the  money  options  experienced  several  negative 
+values,  peaked  on  day  +3  at  about  8  percent  and  ended  the  period  about 
+even.  The  relative  results  peaked  at  15  percent  on  day  3,  had  fewer 
+negative  values  (8),  and  ended  at  8.8  percent. 
+
+Again,  the  overall  returns  relative  to  the  matched  sample  were  good. 
+Also,  the  in  the  money  results  were  less  volatile  and  experienced  fewer 
+negative  results. 
+
+Table  5  contains  the  cumulative  returns  for  the  four  types  of  op- 
+tions assuming  the  investor  acquired  the  option  at  the  close  on  day-2 — 
+i.e.,  the  day  before  the  announcement  was  on  the  Dow  Jones  News  Service. 
+These  results  are  implicitly  unrealistic  because  they  assume  the  investor 
+apparently  acts  before  any  announcement.   Still,  these  results  are  of 
+interest  because  they  provide  a  range  of  results  for  those  who  receive 
+the  news  from  the  broad  tape  (i.e.,  the  aggressive  investor).   The  results 
+in  Table  5  assume  the  investor  waits  until  the  close  of  day  -1  to  buy. 
+Obviously  the  investor  would  be  able  to  buy  somewhere  between  the  close 
+of  day  -2  and  the  close  of  day  -1.   Therefore,  the  realized  rates  of 
+return  for  such  an  investor  should  be  somewhere  between  the  results  in 
+Table  5  and  Table  6.   The  plot  of  the  four  relative  series  is  in  Exhibit  9. 
+
+
+MEM  CUMULATIVE  PERCENT  PRICE  CHANGES  FOR  SPLIT  OPTIONS  UNADJUSTED  AND  ADJUSTED 
+TO  MATCHED  OPTIONS  ASSUMING  A  PURCHASE  AT  THE  CLOSE  OF  DAY  MINUS  TWO 
+
+The  results  in  Table  6  are  very  encouraging.   The  short  in  the 
+money  option  series  ranges  from  18  percent  to  29  percent  and  is  28.4 
+percent  on  day  3.   The  relative  series  ranges  from  18  to  33  percent  and 
+peaks  at  33.3  percent  on  day  3.   The  results  for  the  other  types  of 
+options  are  similar,  with  the  only  difference  being  the  valiie  on  day 
+3.   The  long  in  the  money  series  is  22  percent  (28  percent  relative); 
+the  short  out  of  the  money  series  is  41  percent  (54  percent  relative) ; 
+while  the  long  out  of  the  money  series  is  35  percent  (43  percent  rela- 
+tive) .   In  this  instance,  the  higher  volatility  is  advantageous. 
+
+In  summary,  these  high  return  results  are  somewhat  unrealistic  since 
+they  assume  prior  information.   Still  when  they  are  combined  with  the 
+results  in  Table  5,  they  indicate  a  range  of  possible  returns  for  an 
+aggressive  investor. 
+
+Realistic  Returns  on  a  "Typical"  Investment 
+
+Because  the  prior  results  indicated  positive  cumulative  returns  on 
+day  3,  this  section  presents  the  results  for  a  investor  who  is  assumed 
+to  acquire  a  typical  option  contract  on  day  0,  -1,  or  -2  and  sell  the 
+option  on  day  +3  paying  commissions  on  both  the  purchase  and  the  sale 
+at  a  rate  derived  from  a  broker. 
+
+The  results  in  Table  6  part  A,  which  assumed  the  purchase  and  sale 
+of  one  contract  were  initially  surprising  to  the  authors  who  were  confident 
+that  there  would  be  positive  net  returns  in  most  instances  because  the 
+cumulative  percent  changes  on  day  +3  were  typically  in  the  range  of  6 
+
+
+The  commission  rate  used  is  fairly  conservative,  given  the  range 
+of  commission  schedules  in  existence. 
+
+COSTS  AND  RETURNS  FOR  AN  INVESTOR  TsfHO  ACQUIRED  ALTERNATIVE 
+OPTION  CONTRACTS  AND  SOLD  ON  DAY  THREE 
+
+These  results  indicate  the  importance  of  the  commissions 
+which  seriously  affect  all  contracts,  but  which  are  especially  burden- 
+some on  the  low  priced  out  of  the  money  options.   For  example,  the 
+typical  short  in  the  money  option  was  assumed  to  be  priced  at  $7.27  on 
+day  0  (see  Table  2)  causing  the  commission  on  the  purchase  to  be  $31.27 
+($24  plus  1  percent  of  $727)  for  a  total  value  of  $758.27.   Clearly, 
+this  commission  of  A. 3  percent  on  the  purchase  and  a  similar  commission 
+on  the  sale  meant  that  although  the  option  increased  by  over  6  percent 
+during  the  three  days,  the  net  dollar  result  was  negative.  The  results 
+were  generally  negative  for  all  purchases  on  day  0  or  day  -1  (except  for 
+the  long  in  the  money  option) .   Note  that,  even  with  the  heavy  commis- 
+sions, all  the  purchases  at  the  close  of  day  -2  resulted  in  positive 
+rates  of  return.  As  noted,  assuming  the  potential  return  for  an  aggres- 
+sive investor  is  somewhere  between  the  returns  for  day  -1  and  day  -2, 
+it  appears  that  many  of  these  investors  would  have  experienced  positive 
+returns  in  spite  of  the  heavy  commissions  on  one  contract.   Also  these 
+realistic  returns  are  substantially  above  those  available  on  the  matched 
+sample  stocks  options  where  all  the  returns  were  negative  and  ranged 
+from  -14  percent  to  -50  percent.  Obviously,  because  of  the  heavy  fixed 
+component  of  the  commission  ($24) ,  the  low  price  out  of  the  money  op- 
+tions suffered  most. 
+
+To  show  the  impact  of  the  commission.  Table  7,  part  E  contains  results 
+similar  to  part  A  except  that  in  all  cases  the  investor  is  assumed  to 
+acquire  two  contracts.   Although  this  requires  an  increase  in  capital, 
+it  reduces  substantially  the  relative  impact  of  the  commission. 
+
+With  this  assumption,  almost  all  the  returns  become  positive  irre- 
+spective of  when  the  investor  makes  the  purchase — even  at  the  close  on 
+day  0.   Assuming  one  acquires  an  option  at  the  close  on  day  -1,  the 
+returns  for  in  the  money  options  are  about  3  to  6  percent.   Finally, 
+assuming  an  aggressive  investor  buys  the  option  prior  to  the  close  on 
+day  -1,  the  apparent  returns  are  rather  large  for  a  short  run  investment. 
+Specifically,  the  ranges  are  as  follows: 
+
+Short  In  the  Money  .026  to  .215 
+
+Long  In  the  Money  .058  to  .168 
+
+Short  Out  of  the  Money       -.082  to  .249 
+
+Long  Out  of  the  Money         .006  to  .257 
+Apparently  the  downside  risk  is  rather  minimal.   The  major  concern  is 
+the  upside  opportunity,  which  depends  upon  how  fast  one  can  acquire  the 
+option  after  the  announcement  on  the  broad  tape.   As  before,  the  short 
+out  of  the  money  option  loses  money  only  because  of  its  low  price  and 
+the  commission  included.   It  can  be  determined  that  all  the  option  types 
+become  profitable  for  all  days  if  one  assumes  a  purchase  of  27  contracts. 
+
+SUMMARY  AND  CONCLUSION 
+Summary 
+
+A  prior  study  indicated  that  investors  could  not  derive  abnormal 
+rates  of  return  by  acquiring  the  stock  of  companies  that  announced  stock 
+splits.  Apparently  the  prices  adjusted  quite  fast  and  the  size  of  the 
+price  change  was  not  large  enough  to  provide  abnormal  returns  after  taking 
+account  of  commissions.   This  study  examined  whether  one  can  derive  abnormal 
+returns  by  acquiring  the  options  of  stocks  when  the  company  announces  a 
+stock  split. 
+
+The  sample  included  all  stocks  on  the  NYSE  that  split  and  had  op- 
+tions available  on  one  of  the  exchanges.   Each  company  was  matched  with 
+another  from  a  similar  industry,  comparable  betas  for  the  londerlying 
+stock,  and  the  options  were  on  the  same  expiration  cycle.  When  possible 
+four  types  of  options  were  examined — a  short  and  long  term  in  the  money 
+option  and  a  short  and  long  term  out  of  the  money  option.  The  analysis 
+considered  the  36  day  period  from  15  days  prior  to  the  announcement  to 
+20  daj's  following  the  announcement. 
+
+The  price  and  volume  results  for  the  underlying  stocks  were  similar 
+to  the  prior  study — i.e.,  the  major  price  change  occurred  on  day  -1  and 
+day  0.  The  major  volume  change  came  on  day  0. 
+
+The  relative  option  price  results  were  quite  consistent.   The  biggest 
+price  move  always  occurred  on  day  -1.   The  price  changes  on  day  0  were 
+mixed  depending  on  the  type  of  option.   Tj^pically,  the  peak  price  occurred 
+on  day  +3.  Notably  the  subsequent  price  action  continued  strong  and  the 
+option  price  series  always  ended  the  test  period  above  the  pre-announcement 
+values.  The  relative  volume  results  generally  showed  peak  values  on 
+day  0  with  some  tapering  off  afterwards. 
+
+The  investment  results  indicated  very  profitable  opportunities. 
+The  cumulative  percent  changes  that  assumed  purchases  on  day  0  and  day 
+-1  were  typically  profitable,  assuming  a  sale  on  day  3,  and  they  were 
+better  when  related  to  the  matched  sample.   The  results  assuming  a  pur- 
+chase on  day  -2  were  always  quite  good.   These  resiilts  are  important 
+because  they  provide  a  range  of  returns  for  aggressive  investors  who 
+can  buy  before  the  close  on  day  -1. 
+
+
+The  final  analysis  examined  the  potential  returns  for  an  investor 
+who  acquired  the  "typical"  option  on  day  0,  -1,  and  -2  and  paid  the  full 
+commission.   The  results  assuming  the  purchase  of  one  contract  generally 
+indicated  negative  returns  for  day  0  and  day  -1,  due  to  the  high  fixed 
+component  of  the  commission.  Assuming  the  purchase  of  two  contracts, 
+almost  all  the  returns  were  positive  and  the  range  for  the  aggressive 
+investor  who  could  buy  during  day  -1  were  quite  good — i.e.,  the  mean  of 
+the  range  generally  exceeded  a  10  percent  return  in  four  days.  An  analysis 
+of  individual  trades  in  the  case  of  a  purchase  on  day  -1  and  sale  on 
+day  +3  indicated  that  typically  most  of  the  individual  trades  were  prof- 
+itable, but  the  major  difference  came  because  of  the  large  positive  gains 
+and  smaller  losses — the  range  of  gains  always  exceeded  100  percent  while 
+the  losses  range  exceeded  70  percent. 
+
+
+Conclusion 
+
+The  results  are  encouraging  for  aggressive  investors  with  the  oppor- 
+tunity to  learn  of  split  announcements  early  and  acquire  option  positions 
+quickly.  Apparently  the  downside  risk  is  minimal  and  the  short-run 
+returns  can  be  quite  good.   Given  the  information  requirements  and  the 
+time  constraints,  this  might  be  considered  to  be  evidence  against  the 
+semi-strong  efficient  market  hypothesis.  For  the  typical  investor  who 
+would  not  buy  options  until  day  0,  the  returns  may  still  be  slightly 
+positive  after  commissions,  but  the  risk  may  also  be  somewhat  higher. 
